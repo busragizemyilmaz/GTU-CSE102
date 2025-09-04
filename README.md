@@ -11,6 +11,8 @@ This repository contains solutions to the CSE102 Computer Programming assignment
 - The "OUTPUT" PDFs that I prepared to show the program results
 - The C code solutions that I wrote 
 
+---
+
 👉 I hope this repository will be helpful for you!  
 
 ⭐ If you find this repository useful, don’t forget to give it a star!
